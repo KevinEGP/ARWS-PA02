@@ -37,3 +37,18 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+
+body {
+    justify-content: center;
+    display: flex;
+}
+
+.border-container {
+    border-radius: 5px;
+    border: 1px solid #b0bec5;
+}
+#map {
+    height: 400px;
+    width: 100%;
+    background-color: grey;
+}
